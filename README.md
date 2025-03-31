@@ -69,7 +69,7 @@ Esta es una aplicación web para la gestión de empleados, desarrollada con **Re
 
 ### 1. Backend
 
-- Para probar el backend, puedes usar Postman o cURL.
+- Para probar el backend, puedes usar Postman, Thunder Client, o cURL.
 - Algunos endpoints clave:
   - `POST /api/auth/login`: Iniciar sesión.
   - `GET /api/employees`: Obtener lista de empleados.
